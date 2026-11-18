@@ -3,4 +3,5 @@ Public class Employee {
 	private String employeeName;
 	private String email;
 	private double salary;
+	private String phoneNumber;
 }
