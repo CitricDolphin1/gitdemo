@@ -10,4 +10,4 @@ Modules:
 Technology: Java
 Version Control: Git and GitHub
 
-Dev B comment
+Project Status: Testing In Progress - Development Completed
